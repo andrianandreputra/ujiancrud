@@ -12,7 +12,7 @@ update
 ![image](https://user-images.githubusercontent.com/99938280/157803356-d9cd8900-c208-4a79-9ed2-5e84a3bf528a.png)
 
 delete
-![image](https://user-images.githubusercontent.com/99938280/157803424-e7d649ca-2572-414b-af98-6353609e50e4.png)
+![image](https://user-images.githubusercontent.com/99938280/157811815-71f5048a-37c6-48e1-a084-01c082fef720.png)
 
 
 
